@@ -387,7 +387,6 @@ A service keeps your task running at all times. If a container crashes, the serv
 
 ---
 Appendix
-<img width="1129" height="642" alt="Screenshot From 2026-05-16 09-47-07" src="https://github.com/user-attachments/assets/482668d2-37cb-4882-b20c-fda4c65c78d4" />
 <img width="722" height="287" alt="Screenshot From 2026-05-16 09-48-05" src="https://github.com/user-attachments/assets/986cc257-28c9-4b35-b1e5-f99f685bb0be" />
 <img width="775" height="767" alt="Screenshot From 2026-05-16 09-54-18" src="https://github.com/user-attachments/assets/17e4e53b-e03b-49a6-95b7-73de8dae0a37" />
 <img width="637" height="338" alt="Screenshot From 2026-05-16 11-02-08" src="https://github.com/user-attachments/assets/806b144a-2975-4908-8f4f-aad2d0d59e68" />
