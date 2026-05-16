@@ -386,6 +386,16 @@ A blueprint that tells ECS what Docker image to use, how much CPU and memory to 
 A service keeps your task running at all times. If a container crashes, the service automatically starts a new one.
 
 ---
+Appendix
+<img width="1129" height="642" alt="Screenshot From 2026-05-16 09-47-07" src="https://github.com/user-attachments/assets/482668d2-37cb-4882-b20c-fda4c65c78d4" />
+<img width="722" height="287" alt="Screenshot From 2026-05-16 09-48-05" src="https://github.com/user-attachments/assets/986cc257-28c9-4b35-b1e5-f99f685bb0be" />
+<img width="775" height="767" alt="Screenshot From 2026-05-16 09-54-18" src="https://github.com/user-attachments/assets/17e4e53b-e03b-49a6-95b7-73de8dae0a37" />
+<img width="637" height="338" alt="Screenshot From 2026-05-16 11-02-08" src="https://github.com/user-attachments/assets/806b144a-2975-4908-8f4f-aad2d0d59e68" />
+<img width="795" height="610" alt="Screenshot From 2026-05-16 11-02-19" src="https://github.com/user-attachments/assets/0adeef96-43ae-42f0-944f-75560116535a" />
+<img width="657" height="424" alt="Screenshot From 2026-05-16 11-08-38" src="https://github.com/user-attachments/assets/c4d4e311-d425-4e07-9a97-1e0e696dc486" />
+<img width="949" height="310" alt="Screenshot From 2026-05-16 11-15-21" src="https://github.com/user-attachments/assets/dc95a213-5ea1-4a0c-abba-ecaead69b4a8" />
+<img width="692" height="291" alt="Screenshot From 2026-05-16 11-45-37" src="https://github.com/user-attachments/assets/4ddb7abd-0fd4-4d9a-957c-3fe96c20df7b" />
+
 
 ## Author
 
