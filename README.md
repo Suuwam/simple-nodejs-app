@@ -13,6 +13,8 @@ This is a simple web server built with Node.js and Express. When you access it i
 - On AWS ECS Fargate (serverless cloud deployment)
 
 ---
+<img width="999" height="773" alt="Screenshot From 2026-05-16 13-54-03" src="https://github.com/user-attachments/assets/0737cece-7d0b-43cd-85d4-5d35962e72a2" />
+---
 
 ## Project Structure
 
